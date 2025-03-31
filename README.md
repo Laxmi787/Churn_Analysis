@@ -1,5 +1,4 @@
-
-#Subscription-based businesses analysis Project
+ 
 Subscription-based businesses face significant revenue loss due to customer churn, 
 making retention a critical focus. The key objectives of this project are to analyze churn patterns,
 identify high-risk customer segments, and develop data-driven strategies to reduce churn.
